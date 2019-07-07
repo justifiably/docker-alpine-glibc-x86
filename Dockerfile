@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-ENV GLIB_VERSION=2.28-6
+ENV GLIB_VERSION=2.29-3
 
 ADD ./ld.so.conf ./tmp/ld.so.conf
 
